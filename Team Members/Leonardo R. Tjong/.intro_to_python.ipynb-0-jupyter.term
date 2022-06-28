@@ -1,0 +1,97 @@
+Jupyter console 6.0.0
+
+Python 3.8.13 (default, Mar 28 2022, 11:38:47) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.2.0 -- An enhanced Interactive Python. Type '?' for help.
+
+
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                                     [93C [8C[?7h[0m[?12l[?25h[8D[J[0m[?7h[?2004l[?1lWARNING: your terminal doesn't support cursor position requests (CPR).
+[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                                     [93C [8C[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0;38;5;129;1min[0m [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[2D[0mins [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mg [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mg [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m- [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mb [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[32D[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0mpip install google-colab                                                             [93C [0m
+[J[?7h[0m[?12l[?25h[?2004lCollecting google-colab
+  Using cached google_colab-1.0.0-py2.py3-none-any.whl
+Collecting pandas~=0.24.0
+  Using cached pandas-0.24.2.tar.gz (11.8 MB)
+Collecting tornado~=4.5.0
+  Using cached tornado-4.5.3.tar.gz (484 kB)
+Collecting portpicker~=1.2.0
+  Using cached portpicker-1.2.0.tar.gz (17 kB)
+Collecting six~=1.12.0
+  Using cached six-1.12.0-py2.py3-none-any.whl (10 kB)
+Collecting google-auth~=1.4.0
+  Using cached google_auth-1.4.2-py2.py3-none-any.whl (64 kB)
+Collecting ipython~=5.5.0
+  Using cached ipython-5.5.0-py3-none-any.whl (758 kB)
+Collecting ipykernel~=4.6.0
+  Using cached ipykernel-4.6.1-py3-none-any.whl (104 kB)
+Collecting notebook~=5.2.0
+  Using cached notebook-5.2.2-py2.py3-none-any.whl (8.0 MB)
+Collecting requests~=2.21.0
+  Using cached requests-2.21.0-py2.py3-none-any.whl (57 kB)
+Requirement already satisfied: rsa>=3.1.4 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from google-auth~=1.4.0->google-colab) (4.7.2)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from google-auth~=1.4.0->google-colab) (0.2.8)
+Requirement already satisfied: cachetools>=2.0.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from google-auth~=1.4.0->google-colab) (4.2.2)
+Requirement already satisfied: traitlets>=4.1.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipykernel~=4.6.0->google-colab) (5.1.1)
+Requirement already satisfied: jupyter-client in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipykernel~=4.6.0->google-colab) (7.2.2)
+Requirement already satisfied: pygments in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (2.11.2)
+Requirement already satisfied: pickleshare in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (0.7.5)
+Requirement already satisfied: decorator in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (5.1.1)
+Requirement already satisfied: pexpect in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (4.8.0)
+Collecting simplegeneric>0.8
+  Using cached simplegeneric-0.8.1.zip (12 kB)
+Collecting prompt-toolkit<2.0.0,>=1.0.4
+  Using cached prompt_toolkit-1.0.18-py3-none-any.whl (245 kB)
+Requirement already satisfied: setuptools>=18.5 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (61.2.0)
+Requirement already satisfied: terminado>=0.3.3 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (0.13.1)
+Requirement already satisfied: ipython-genutils in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (0.2.0)
+Requirement already satisfied: nbconvert in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (6.4.4)
+Requirement already satisfied: jupyter-core in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (4.9.2)
+Requirement already satisfied: jinja2 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (3.0.3)
+Requirement already satisfied: nbformat in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (5.3.0)
+Requirement already satisfied: python-dateutil>=2.5.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from pandas~=0.24.0->google-colab) (2.8.2)
+Requirement already satisfied: pytz>=2011k in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from pandas~=0.24.0->google-colab) (2021.3)
+Requirement already satisfied: numpy>=1.12.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from pandas~=0.24.0->google-colab) (1.22.3)
+Requirement already satisfied: wcwidth in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from prompt-toolkit<2.0.0,>=1.0.4->ipython~=5.5.0->google-colab) (0.2.5)
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.6 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from pyasn1-modules>=0.2.1->google-auth~=1.4.0->google-colab) (0.4.8)
+Collecting chardet<3.1.0,>=3.0.2
+  Using cached chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+Collecting idna<2.9,>=2.5
+  Using cached idna-2.8-py2.py3-none-any.whl (58 kB)
+Requirement already satisfied: certifi>=2017.4.17 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from requests~=2.21.0->google-colab) (2021.10.8)
+Collecting urllib3<1.25,>=1.21.1
+  Using cached urllib3-1.24.3-py2.py3-none-any.whl (118 kB)
+Requirement already satisfied: ptyprocess in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from terminado>=0.3.3->notebook~=5.2.0->google-colab) (0.7.0)
+Requirement already satisfied: MarkupSafe>=2.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jinja2->notebook~=5.2.0->google-colab) (2.0.1)
+Collecting jupyter-client
+  Using cached jupyter_client-7.3.4-py3-none-any.whl (132 kB)
+  Using cached jupyter_client-7.3.3-py3-none-any.whl (131 kB)
+  Using cached jupyter_client-7.3.2-py3-none-any.whl (131 kB)
+  Using cached jupyter_client-7.3.1-py3-none-any.whl (130 kB)
+  Using cached jupyter_client-7.3.0-py3-none-any.whl (130 kB)
+  Using cached jupyter_client-7.2.1-py3-none-any.whl (130 kB)
+  Using cached jupyter_client-7.2.0-py3-none-any.whl (130 kB)
+Requirement already satisfied: nest-asyncio>=1.5.1 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jupyter-client->ipykernel~=4.6.0->google-colab) (1.5.5)
+Requirement already satisfied: pyzmq>=17 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jupyter-client->ipykernel~=4.6.0->google-colab) (22.3.0)
+  Using cached jupyter_client-7.1.2-py3-none-any.whl (130 kB)
+Requirement already satisfied: entrypoints in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jupyter-client->ipykernel~=4.6.0->google-colab) (0.4)
+Requirement already satisfied: testpath in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.5.0)
+Requirement already satisfied: bleach in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (4.1.0)
+Requirement already satisfied: beautifulsoup4 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (4.11.1)
+Requirement already satisfied: jupyterlab-pygments in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.1.2)
+Requirement already satisfied: defusedxml in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.7.1)
+Requirement already satisfied: nbclient<0.6.0,>=0.5.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.5.13)
+Requirement already satisfied: mistune<2,>=0.8.1 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.8.4)
+Requirement already satisfied: pandocfilters>=1.4.1 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (1.5.0)
+Requirement already satisfied: fastjsonschema in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbformat->notebook~=5.2.0->google-colab) (2.15.1)
+Requirement already satisfied: jsonschema>=2.6 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbformat->notebook~=5.2.0->google-colab) (4.4.0)
+Requirement already satisfied: pyrsistent!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jsonschema>=2.6->nbformat->notebook~=5.2.0->google-colab) (0.18.0)
+Requirement already satisfied: attrs>=17.4.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jsonschema>=2.6->nbformat->notebook~=5.2.0->google-colab) (21.4.0)
+Requirement already satisfied: importlib-resources>=1.4.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jsonschema>=2.6->nbformat->notebook~=5.2.0->google-colab) (5.2.0)
+Requirement already satisfied: zipp>=3.1.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from importlib-resources>=1.4.0->jsonschema>=2.6->nbformat->notebook~=5.2.0->google-colab) (3.8.0)
+Requirement already satisfied: soupsieve>1.2 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from beautifulsoup4->nbconvert->notebook~=5.2.0->google-colab) (2.3.1)
+Requirement already satisfied: webencodings in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from bleach->nbconvert->notebook~=5.2.0->google-colab) (0.5.1)
+Requirement already satisfied: packaging in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from bleach->nbconvert->notebook~=5.2.0->google-colab) (21.3)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from packaging->bleach->nbconvert->notebook~=5.2.0->google-colab) (3.0.4)
+Building wheels for collected packages: pandas, portpicker, simplegeneric, tornado
+  Building wheel for pandas (setup.py) ... [?25l- \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \
+[?1l[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m64[0;38;5;28m]: [0m                                                                                    [93C [9C[?7h[0m[?12l[?25h

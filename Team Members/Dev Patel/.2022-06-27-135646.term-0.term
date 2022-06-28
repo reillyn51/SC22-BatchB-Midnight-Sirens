@@ -1,0 +1,25 @@
+(base) ]0;~/Team Members/Dev Patel[01;34m~/Team Members/Dev Patel[00m$ conda env list
+# conda environments:
+#
+base                  *  /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3
+cv_env                   /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env
+
+(base) ]0;~/Team Members/Dev Patel[01;34m~/Team Members/Dev Patel[00m$ conda activate cv_env
+(cv_env) ]0;~/Team Members/Dev Patel[01;34m~/Team Members/Dev Patel[00m$ CV-Notebooks-Summer-2022[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kconda[K[K[K[K[Kconda env update --file local.yml --prune
+^[[D    clear
+EnvironmentFileNotFound: '/projects/07cb54a4-9729-4508-ad4f-95fc7891551c/Team Members/Dev Patel/local.yml' file not found
+
+
+(cv_env) ]0;~/Team Members/Dev Patel[01;34m~/Team Members/Dev Patel[00m$ clear
+[H[J(cv_env) ]0;~/Team Members/Dev Patel[01;34m~/Team Members/Dev Patel[00m$ clear[K[K[K[K[Kconda env update --file local.yml --prune
+^[[A    
+EnvironmentFileNotFound: '/projects/07cb54a4-9729-4508-ad4f-95fc7891551c/Team Members/Dev Patel/local.yml' file not found
+
+(cv_env) ]0;~/Team Members/Dev Patel[01;34m~/Team Members/Dev Patel[00m$ conda env update --file local.yml --prune[C[1P[1P[1P[C[1P[1P[1@C[1@V[1@R[1@e[1@q
+
+EnvironmentFileNotFound: '/projects/07cb54a4-9729-4508-ad4f-95fc7891551c/Team Members/Dev Patel/CVReq.yml' file not found
+
+(cv_env) ]0;~/Team Members/Dev Patel[01;34m~/Team Members/Dev Patel[00m$ conda env update --file CVReq.yml --prune[C[1P[1P[1P[1P[1P[1P[1P[1P[41@conda env update --file local.yml --prune
+usage: conda-env [-h] {create,export,list,remove,update,config} ...
+conda-env: error: unrecognized arguments: update --prunel
+(cv_env) ]0;~/Team Members/Dev Patel[01;34m~/Team Members/Dev Patel[00m$ 

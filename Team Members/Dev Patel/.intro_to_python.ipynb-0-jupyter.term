@@ -1,0 +1,400 @@
+Jupyter console 6.0.0
+
+Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.13.0 -- An enhanced Interactive Python. Type '?' for help.
+
+
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                                                    [108C [8C[?7h[0m[?12l[?25h[8D[J[0m[?7h[?2004l[?1lWARNING: your terminal doesn't support cursor position requests (CPR).
+[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                                                    [108C [8C[?7h[0m[?12l[?25h[?25l[?7l[8D[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                                                    [108C [0m
+[J[?7h[0m[?12l[?25h[?2004l
+[?1l[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                                                    [108C [8C[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mr [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[13D[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0mclear                                                                                               [108C [0m
+[J[?7h[0m[?12l[?25h[?2004l[H[2J
+[?1l[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m40[0;38;5;28m]: [0m                                                                                                   [108C [9C[?7h[0m[?12l[?25h[?25l[?7l[0mconda env update -f environment.yml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mC [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mC [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mV [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mr [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mq [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m. [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0my [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mR [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mq [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m. [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0my [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mm [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[38D[0m[J[0;38;5;28mIn [[0;38;5;46;1m40[0;38;5;28m]: [0mconda env update -f CVReq.yml                                                                      [108C [0m
+[J[?7h[0m[?12l[?25h[?2004l[0;31m---------------------------------------------------------------------------[0m
+[0;31mValueError[0m                                Traceback (most recent call last)
+[0;32m<ipython-input-40-96de509aa3d2>[0m in [0;36m<module>[0;34m[0m
+[0;32m----> 1[0;31m [0mget_ipython[0m[0;34m([0m[0;34m)[0m[0;34m.[0m[0mrun_line_magic[0m[0;34m([0m[0;34m'conda'[0m[0;34m,[0m [0;34m'env update -f CVReq.yml'[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m
+[0;32m/usr/lib/python3/dist-packages/IPython/core/interactiveshell.py[0m in [0;36mrun_line_magic[0;34m(self, magic_name, line, _stack_depth)[0m
+[1;32m   2315[0m                 [0mkwargs[0m[0;34m[[0m[0;34m'local_ns'[0m[0;34m][0m [0;34m=[0m [0msys[0m[0;34m.[0m[0m_getframe[0m[0;34m([0m[0mstack_depth[0m[0;34m)[0m[0;34m.[0m[0mf_locals[0m[0;34m[0m[0;34m[0m[0m
+[1;32m   2316[0m             [0;32mwith[0m [0mself[0m[0;34m.[0m[0mbuiltin_trap[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+[0;32m-> 2317[0;31m                 [0mresult[0m [0;34m=[0m [0mfn[0m[0;34m([0m[0;34m*[0m[0margs[0m[0;34m,[0m [0;34m**[0m[0mkwargs[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m   2318[0m             [0;32mreturn[0m [0mresult[0m[0;34m[0m[0;34m[0m[0m
+[1;32m   2319[0m [0;34m[0m[0m
+
+[0;32m<decorator-gen-107>[0m in [0;36mconda[0;34m(self, line)[0m
+
+[0;32m/usr/lib/python3/dist-packages/IPython/core/magic.py[0m in [0;36m<lambda>[0;34m(f, *a, **k)[0m
+[1;32m    185[0m     [0;31m# but it's overkill for just that one bit of state.[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
+[1;32m    186[0m     [0;32mdef[0m [0mmagic_deco[0m[0;34m([0m[0marg[0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+[0;32m--> 187[0;31m         [0mcall[0m [0;34m=[0m [0;32mlambda[0m [0mf[0m[0;34m,[0m [0;34m*[0m[0ma[0m[0;34m,[0m [0;34m**[0m[0mk[0m[0;34m:[0m [0mf[0m[0;34m([0m[0;34m*[0m[0ma[0m[0;34m,[0m [0;34m**[0m[0mk[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m    188[0m [0;34m[0m[0m
+[1;32m    189[0m         [0;32mif[0m [0mcallable[0m[0;34m([0m[0marg[0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+
+[0;32m/usr/lib/python3/dist-packages/IPython/core/magics/packaging.py[0m in [0;36mconda[0;34m(self, line)[0m
+[1;32m     77[0m         """
+[1;32m     78[0m         [0;32mif[0m [0;32mnot[0m [0m_is_conda_environment[0m[0;34m([0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+[0;32m---> 79[0;31m             raise ValueError("The python kernel does not appear to be a conda environment.  "
+[0m[1;32m     80[0m                              "Please use ``%pip install`` instead.")
+[1;32m     81[0m [0;34m[0m[0m
+
+[0;31mValueError[0m: The python kernel does not appear to be a conda environment.  Please use ``%pip install`` instead.
+
+[?1l[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m41[0;38;5;28m]: [0m                                                                                                   [108C [9C[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0;38;5;129;1min[0m [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[2D[0mins [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[3D[0;38;5;28mopen[0m [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[4D[0mopenc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m- [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0my [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mh [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mn [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[34D[0m[J[0;38;5;28mIn [[0;38;5;46;1m41[0;38;5;28m]: [0mpip install opencv-python                                                                          [108C [0m
+[J[?7h[0m[?12l[?25h[?2004lRequirement already satisfied: opencv-python in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/.local/lib/python3.8/site-packages (4.6.0.66)
+Requirement already satisfied: numpy>=1.17.3; python_version >= "3.8" in /usr/local/lib/python3.8/dist-packages (from opencv-python) (1.22.3)
+Note: you may need to restart the kernel to use updated packages.
+
+[?1l[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m42[0;38;5;28m]: [0m                                                                                                   [108C [9C[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mr [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25hJupyter console 6.0.0
+
+Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.13.0 -- An enhanced Interactive Python. Type '?' for help.
+
+
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                       [79C [8C[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0;38;5;129;1min[0m [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[2D[0mins [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25hJupyter console 6.0.0
+
+Python 3.8.13 (default, Mar 28 2022, 11:38:47) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.2.0 -- An enhanced Interactive Python. Type '?' for help.
+
+
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                       [79C [8C[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mr [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[13D[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0mclear                                                                  [79C [0m
+[J[?7h[0m[?12l[?25h[?2004l[H[2J
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m3[0;38;5;28m]: [0m                                                                       [79C [8C[?7h[0m[?12l[?25h[?25l[?7l[8D[0;38;5;28mIn [[0;38;5;46;1m3[0;38;5;28m]: [0m [0m[K[0m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0m                                                                               [79C [22A[8C[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mn [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0md [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m [0m[K[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m_ [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mn [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[29D[0m[J[0;38;5;28mIn [[0;38;5;46;1m3[0;38;5;28m]: [0mconda activate cv_env                                                  [79C [0m
+[J[?7h[0m[?12l[?25h[?2004lCollecting package metadata (current_repodata.json): - \ | / - \ | / done
+Solving environment: \ failed with initial frozen solve. Retrying with flexible solve.
+Collecting package metadata (repodata.json): / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / done
+Solving environment: \ failed with initial frozen solve. Retrying with flexible solve.
+
+PackagesNotFoundError: The following packages are not available from current channels:
+
+  - activate
+  - cv_env
+
+Current channels:
+
+  - https://conda.anaconda.org/anaconda/linux-64
+  - https://conda.anaconda.org/anaconda/noarch
+  - https://repo.anaconda.com/pkgs/main/linux-64
+  - https://repo.anaconda.com/pkgs/main/noarch
+  - https://repo.anaconda.com/pkgs/r/linux-64
+  - https://repo.anaconda.com/pkgs/r/noarch
+
+To search for alternate channels that may provide the conda package you're
+looking for, navigate to
+
+    https://anaconda.org
+
+and use the search bar at the top of the page.
+
+
+
+Note: you may need to restart the kernel to use updated packages.
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m4[0;38;5;28m]: [0m                                                                       [79C [8C[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mn [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0md [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mn [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m_ [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mn [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[33D[0m[J[0;38;5;28mIn [[0;38;5;46;1m4[0;38;5;28m]: [0mconda activate env cv_env                                              [79C [0m
+[J[?7h[0m[?12l[?25h[?2004lCollecting package metadata (current_repodata.json): - \ | / - \ | / - done
+Solving environment: | failed with initial frozen solve. Retrying with flexible solve.
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | done
+Solving environment: - failed with initial frozen solve. Retrying with flexible solve.
+
+PackagesNotFoundError: The following packages are not available from current channels:
+
+  - cv_env
+  - activate
+  - env
+
+Current channels:
+
+  - https://conda.anaconda.org/anaconda/linux-64
+  - https://conda.anaconda.org/anaconda/noarch
+  - https://repo.anaconda.com/pkgs/main/linux-64
+  - https://repo.anaconda.com/pkgs/main/noarch
+  - https://repo.anaconda.com/pkgs/r/linux-64
+  - https://repo.anaconda.com/pkgs/r/noarch
+
+To search for alternate channels that may provide the conda package you're
+looking for, navigate to
+
+    https://anaconda.org
+
+and use the search bar at the top of the page.
+
+
+
+Note: you may need to restart the kernel to use updated packages.
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m5[0;38;5;28m]: [0m                                                                       [79C [8C[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mr [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[13D[0m[J[0;38;5;28mIn [[0;38;5;46;1m5[0;38;5;28m]: [0mclear                                                                  [79C [0m
+[J[?7h[0m[?12l[?25h[?2004l[H[2J
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m6[0;38;5;28m]: [0m                                                                       [79C [8C[?7h[0m[?12l[?25h[?25l[?7l[8D[0;38;5;28mIn [[0;38;5;46;1m6[0;38;5;28m]: [0m [0m[K[0m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0m                                                                               [79C [22A[8C[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0;38;5;129;1min[0m [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[2D[0mins [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mconda install -c conda-forge google-colab [0m
+[0;38;5;28m      : [0m [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[A[8D[0m[J[0;38;5;28mIn [[0;38;5;46;1m6[0;38;5;28m]: [0mpip install conda install -c conda-forge google-colab [0m
+[0;38;5;28m      : [0m                                                                       [79C [0m
+[J[?7h[0m[?12l[?25h[?2004l[31mERROR: Could not open requirements file: [Errno 2] No such file or directory: 'conda-forge'[0m
+clNote: you may need to restart the kernel to use updated packages.
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m7[0;38;5;28m]: [0m                                                                       [79C [8C[?7h[0m[?12l[?25h[?25l[?7l[0mcl [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[11D[0;38;5;28mIn [[0;38;5;46;1m7[0;38;5;28m]: [0mcle [0m[K[0m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0m                                                                               [79C [17A[11C[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mr [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[13D[0m[J[0;38;5;28mIn [[0;38;5;46;1m7[0;38;5;28m]: [0mclear                                                                  [79C [0m
+[J[?7h[0m[?12l[?25h[?2004lc[H[2J
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m8[0;38;5;28m]: [0m                                                                       [79C [8C[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[9D[0;38;5;28mIn [[0;38;5;46;1m8[0;38;5;28m]: [0mc [0m[K[0m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0m                                                                               [79C [22A[9C[?7h[0m[?12l[?25h[?25l[?7l[0m [0m[K[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mconda install -c conda-forge google-colab [0m
+[0;38;5;28m      : [0m [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[8D[0m [0m[K[A[48C[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m [0m[K[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mb [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[49D[0m[J[0;38;5;28mIn [[0;38;5;46;1m8[0;38;5;28m]: [0mconda install -c conda-forge google-colab                              [79C [0m
+[J[?7h[0m[?12l[?25h[?2004lusage: conda [-h] [-V] command ...
+conda: error: unrecognized arguments: google-colab
+
+Note: you may need to restart the kernel to use updated packages.
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m9[0;38;5;28m]: [0m                                                                       [79C [8C[?7h[0m[?12l[?25h[?25l[?7l[8D[0;38;5;28mIn [[0;38;5;46;1m9[0;38;5;28m]: [0m [0m[K[0m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0m                                                                               [79C [16A[8C[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0;38;5;129;1min[0m [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[2D[0mins [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mg [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mg [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m- [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mb [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[32D[0m[J[0;38;5;28mIn [[0;38;5;46;1m9[0;38;5;28m]: [0mpip install google-colab                                               [79C [0m
+[J[?7h[0m[?12l[?25h[?2004lCollecting google-colab
+  Using cached google_colab-1.0.0-py2.py3-none-any.whl
+Collecting ipython~=5.5.0
+  Using cached ipython-5.5.0-py3-none-any.whl (758 kB)
+Collecting ipykernel~=4.6.0
+  Using cached ipykernel-4.6.1-py3-none-any.whl (104 kB)
+Collecting google-auth~=1.4.0
+  Using cached google_auth-1.4.2-py2.py3-none-any.whl (64 kB)
+Collecting pandas~=0.24.0
+  Using cached pandas-0.24.2.tar.gz (11.8 MB)
+Collecting portpicker~=1.2.0
+  Using cached portpicker-1.2.0.tar.gz (17 kB)
+Collecting requests~=2.21.0
+  Using cached requests-2.21.0-py2.py3-none-any.whl (57 kB)
+Collecting six~=1.12.0
+  Using cached six-1.12.0-py2.py3-none-any.whl (10 kB)
+Collecting tornado~=4.5.0
+  Using cached tornado-4.5.3.tar.gz (484 kB)
+Collecting notebook~=5.2.0
+  Using cached notebook-5.2.2-py2.py3-none-any.whl (8.0 MB)
+Requirement already satisfied: cachetools>=2.0.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from google-auth~=1.4.0->google-colab) (4.2.2)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from google-auth~=1.4.0->google-colab) (0.2.8)
+Requirement already satisfied: rsa>=3.1.4 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from google-auth~=1.4.0->google-colab) (4.7.2)
+Requirement already satisfied: jupyter-client in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipykernel~=4.6.0->google-colab) (7.2.2)
+Requirement already satisfied: traitlets>=4.1.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipykernel~=4.6.0->google-colab) (5.1.1)
+Collecting prompt-toolkit<2.0.0,>=1.0.4
+  Using cached prompt_toolkit-1.0.18-py3-none-any.whl (245 kB)
+Requirement already satisfied: decorator in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (5.1.1)
+Requirement already satisfied: pygments in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (2.11.2)
+Requirement already satisfied: pickleshare in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (0.7.5)
+Collecting simplegeneric>0.8
+  Using cached simplegeneric-0.8.1.zip (12 kB)
+Requirement already satisfied: pexpect in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (4.8.0)
+Requirement already satisfied: setuptools>=18.5 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from ipython~=5.5.0->google-colab) (61.2.0)
+Requirement already satisfied: ipython-genutils in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (0.2.0)
+Requirement already satisfied: jinja2 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (3.0.3)
+Requirement already satisfied: nbformat in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (5.3.0)
+Requirement already satisfied: terminado>=0.3.3 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (0.13.1)
+Requirement already satisfied: nbconvert in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (6.4.4)
+Requirement already satisfied: jupyter-core in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from notebook~=5.2.0->google-colab) (4.9.2)
+Requirement already satisfied: python-dateutil>=2.5.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from pandas~=0.24.0->google-colab) (2.8.2)
+Requirement already satisfied: pytz>=2011k in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from pandas~=0.24.0->google-colab) (2021.3)
+Requirement already satisfied: numpy>=1.12.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from pandas~=0.24.0->google-colab) (1.22.3)
+Requirement already satisfied: wcwidth in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from prompt-toolkit<2.0.0,>=1.0.4->ipython~=5.5.0->google-colab) (0.2.5)
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.6 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from pyasn1-modules>=0.2.1->google-auth~=1.4.0->google-colab) (0.4.8)
+Collecting idna<2.9,>=2.5
+  Using cached idna-2.8-py2.py3-none-any.whl (58 kB)
+Requirement already satisfied: certifi>=2017.4.17 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from requests~=2.21.0->google-colab) (2021.10.8)
+Collecting urllib3<1.25,>=1.21.1
+  Using cached urllib3-1.24.3-py2.py3-none-any.whl (118 kB)
+Collecting chardet<3.1.0,>=3.0.2
+  Using cached chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+Requirement already satisfied: ptyprocess in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from terminado>=0.3.3->notebook~=5.2.0->google-colab) (0.7.0)
+Requirement already satisfied: MarkupSafe>=2.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jinja2->notebook~=5.2.0->google-colab) (2.0.1)
+Collecting jupyter-client
+  Using cached jupyter_client-7.3.4-py3-none-any.whl (132 kB)
+Collecting pyzmq>=23.0
+  Downloading pyzmq-23.2.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (1.1 MB)
+[?25l[K     |▎                               | 10 kB 22.1 MB/s eta 0:00:01[K     |▋                               | 20 kB 27.9 MB/s eta 0:00:01[K     |█                               | 30 kB 31.0 MB/s eta 0:00:01[K     |█▏                              | 40 kB 17.0 MB/s eta 0:00:01[K     |█▌                              | 51 kB 13.7 MB/s eta 0:00:01[K     |█▉                              | 61 kB 15.7 MB/s eta 0:00:01[K     |██                              | 71 kB 16.1 MB/s eta 0:00:01[K     |██▍                             | 81 kB 15.2 MB/s eta 0:00:01[K     |██▊                             | 92 kB 16.5 MB/s eta 0:00:01[K     |███                             | 102 kB 17.6 MB/s eta 0:00:01[K     |███▎                            | 112 kB 17.6 MB/s eta 0:00:01[K     |███▋                            | 122 kB 17.6 MB/s eta 0:00:01[K     |████                            | 133 kB 17.6 MB/s eta 0:00:01[K     |████▏                           | 143 kB 17.6 MB/s eta 0:00:01[K     |████▌                           | 153 kB 17.6 MB/s eta 0:00:01[K     |████▉                           | 163 kB 17.6 MB/s eta 0:00:01[K     |█████                           | 174 kB 17.6 MB/s eta 0:00:01[K     |█████▍                          | 184 kB 17.6 MB/s eta 0:00:01[K     |█████▊                          | 194 kB 17.6 MB/s eta 0:00:01[K     |██████                          | 204 kB 17.6 MB/s eta 0:00:01[K     |██████▎                         | 215 kB 17.6 MB/s eta 0:00:01[K     |██████▋                         | 225 kB 17.6 MB/s eta 0:00:01[K     |███████                         | 235 kB 17.6 MB/s eta 0:00:01[K     |███████▏                        | 245 kB 17.6 MB/s eta 0:00:01[K     |███████▌                        | 256 kB 17.6 MB/s eta 0:00:01[K     |███████▉                        | 266 kB 17.6 MB/s eta 0:00:01[K     |████████                        | 276 kB 17.6 MB/s eta 0:00:01[K     |████████▍                       | 286 kB 17.6 MB/s eta 0:00:01[K     |████████▊                       | 296 kB 17.6 MB/s eta 0:00:01[K     |█████████                       | 307 kB 17.6 MB/s eta 0:00:01[K     |█████████▎                      | 317 kB 17.6 MB/s eta 0:00:01[K     |█████████▋                      | 327 kB 17.6 MB/s eta 0:00:01[K     |██████████                      | 337 kB 17.6 MB/s eta 0:00:01[K     |██████████▏                     | 348 kB 17.6 MB/s eta 0:00:01[K     |██████████▌                     | 358 kB 17.6 MB/s eta 0:00:01[K     |██████████▉                     | 368 kB 17.6 MB/s eta 0:00:01[K     |███████████                     | 378 kB 17.6 MB/s eta 0:00:01[K     |███████████▍                    | 389 kB 17.6 MB/s eta 0:00:01[K     |███████████▊                    | 399 kB 17.6 MB/s eta 0:00:01[K     |████████████                    | 409 kB 17.6 MB/s eta 0:00:01[K     |████████████▎                   | 419 kB 17.6 MB/s eta 0:00:01[K     |████████████▋                   | 430 kB 17.6 MB/s eta 0:00:01[K     |█████████████                   | 440 kB 17.6 MB/s eta 0:00:01[K     |█████████████▏                  | 450 kB 17.6 MB/s eta 0:00:01[K     |█████████████▌                  | 460 kB 17.6 MB/s eta 0:00:01[K     |█████████████▉                  | 471 kB 17.6 MB/s eta 0:00:01[K     |██████████████                  | 481 kB 17.6 MB/s eta 0:00:01[K     |██████████████▍                 | 491 kB 17.6 MB/s eta 0:00:01[K     |██████████████▊                 | 501 kB 17.6 MB/s eta 0:00:01[K     |███████████████                 | 512 kB 17.6 MB/s eta 0:00:01[K     |███████████████▎                | 522 kB 17.6 MB/s eta 0:00:01[K     |███████████████▋                | 532 kB 17.6 MB/s eta 0:00:01[K     |████████████████                | 542 kB 17.6 MB/s eta 0:00:01[K     |████████████████▏               | 552 kB 17.6 MB/s eta 0:00:01[K     |████████████████▌               | 563 kB 17.6 MB/s eta 0:00:01[K     |████████████████▉               | 573 kB 17.6 MB/s eta 0:00:01[K     |█████████████████               | 583 kB 17.6 MB/s eta 0:00:01[K     |█████████████████▍              | 593 kB 17.6 MB/s eta 0:00:01[K     |█████████████████▊              | 604 kB 17.6 MB/s eta 0:00:01[K     |██████████████████              | 614 kB 17.6 MB/s eta 0:00:01[K     |██████████████████▎             | 624 kB 17.6 MB/s eta 0:00:01[K     |██████████████████▋             | 634 kB 17.6 MB/s eta 0:00:01[K     |███████████████████             | 645 kB 17.6 MB/s eta 0:00:01[K     |███████████████████▏            | 655 kB 17.6 MB/s eta 0:00:01[K     |███████████████████▌            | 665 kB 17.6 MB/s eta 0:00:01[K     |███████████████████▉            | 675 kB 17.6 MB/s eta 0:00:01[K     |████████████████████            | 686 kB 17.6 MB/s eta 0:00:01[K     |████████████████████▍           | 696 kB 17.6 MB/s eta 0:00:01[K     |████████████████████▊           | 706 kB 17.6 MB/s eta 0:00:01[K     |█████████████████████           | 716 kB 17.6 MB/s eta 0:00:01[K     |█████████████████████▎          | 727 kB 17.6 MB/s eta 0:00:01[K     |█████████████████████▋          | 737 kB 17.6 MB/s eta 0:00:01[K     |█████████████████████▉          | 747 kB 17.6 MB/s eta 0:00:01[K     |██████████████████████▏         | 757 kB 17.6 MB/s eta 0:00:01[K     |██████████████████████▌         | 768 kB 17.6 MB/s eta 0:00:01[K     |██████████████████████▉         | 778 kB 17.6 MB/s eta 0:00:01[K     |███████████████████████         | 788 kB 17.6 MB/s eta 0:00:01[K     |███████████████████████▍        | 798 kB 17.6 MB/s eta 0:00:01[K     |███████████████████████▊        | 808 kB 17.6 MB/s eta 0:00:01[K     |████████████████████████        | 819 kB 17.6 MB/s eta 0:00:01[K     |████████████████████████▎       | 829 kB 17.6 MB/s eta 0:00:01[K     |████████████████████████▋       | 839 kB 17.6 MB/s eta 0:00:01[K     |████████████████████████▉       | 849 kB 17.6 MB/s eta 0:00:01[K     |█████████████████████████▏      | 860 kB 17.6 MB/s eta 0:00:01[K     |█████████████████████████▌      | 870 kB 17.6 MB/s eta 0:00:01[K     |█████████████████████████▉      | 880 kB 17.6 MB/s eta 0:00:01[K     |██████████████████████████      | 890 kB 17.6 MB/s eta 0:00:01[K     |██████████████████████████▍     | 901 kB 17.6 MB/s eta 0:00:01[K     |██████████████████████████▊     | 911 kB 17.6 MB/s eta 0:00:01[K     |███████████████████████████     | 921 kB 17.6 MB/s eta 0:00:01[K     |███████████████████████████▎    | 931 kB 17.6 MB/s eta 0:00:01[K     |███████████████████████████▋    | 942 kB 17.6 MB/s eta 0:00:01[K     |███████████████████████████▉    | 952 kB 17.6 MB/s eta 0:00:01[K     |████████████████████████████▏   | 962 kB 17.6 MB/s eta 0:00:01[K     |████████████████████████████▌   | 972 kB 17.6 MB/s eta 0:00:01[K     |████████████████████████████▉   | 983 kB 17.6 MB/s eta 0:00:01[K     |█████████████████████████████   | 993 kB 17.6 MB/s eta 0:00:01[K     |█████████████████████████████▍  | 1.0 MB 17.6 MB/s eta 0:00:01[K     |█████████████████████████████▊  | 1.0 MB 17.6 MB/s eta 0:00:01[K     |██████████████████████████████  | 1.0 MB 17.6 MB/s eta 0:00:01[K     |██████████████████████████████▎ | 1.0 MB 17.6 MB/s eta 0:00:01[K     |██████████████████████████████▋ | 1.0 MB 17.6 MB/s eta 0:00:01[K     |██████████████████████████████▉ | 1.1 MB 17.6 MB/s eta 0:00:01[K     |███████████████████████████████▏| 1.1 MB 17.6 MB/s eta 0:00:01[K     |███████████████████████████████▌| 1.1 MB 17.6 MB/s eta 0:00:01[K     |███████████████████████████████▉| 1.1 MB 17.6 MB/s eta 0:00:01[K     |████████████████████████████████| 1.1 MB 17.6 MB/s 
+[?25hCollecting jupyter-client
+  Using cached jupyter_client-7.3.3-py3-none-any.whl (131 kB)
+  Using cached jupyter_client-7.3.2-py3-none-any.whl (131 kB)
+  Using cached jupyter_client-7.3.1-py3-none-any.whl (130 kB)
+  Using cached jupyter_client-7.3.0-py3-none-any.whl (130 kB)
+  Using cached jupyter_client-7.2.1-py3-none-any.whl (130 kB)
+  Using cached jupyter_client-7.2.0-py3-none-any.whl (130 kB)
+  Using cached jupyter_client-7.1.2-py3-none-any.whl (130 kB)
+Requirement already satisfied: pyzmq>=13 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jupyter-client->ipykernel~=4.6.0->google-colab) (22.3.0)
+Requirement already satisfied: entrypoints in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jupyter-client->ipykernel~=4.6.0->google-colab) (0.4)
+Requirement already satisfied: nest-asyncio>=1.5 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jupyter-client->ipykernel~=4.6.0->google-colab) (1.5.5)
+Requirement already satisfied: pandocfilters>=1.4.1 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (1.5.0)
+Requirement already satisfied: nbclient<0.6.0,>=0.5.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.5.13)
+Requirement already satisfied: bleach in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (4.1.0)
+Requirement already satisfied: testpath in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.5.0)
+Requirement already satisfied: mistune<2,>=0.8.1 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.8.4)
+Requirement already satisfied: defusedxml in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.7.1)
+Requirement already satisfied: beautifulsoup4 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (4.11.1)
+Requirement already satisfied: jupyterlab-pygments in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbconvert->notebook~=5.2.0->google-colab) (0.1.2)
+Requirement already satisfied: fastjsonschema in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbformat->notebook~=5.2.0->google-colab) (2.15.1)
+Requirement already satisfied: jsonschema>=2.6 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from nbformat->notebook~=5.2.0->google-colab) (4.4.0)
+Requirement already satisfied: importlib-resources>=1.4.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jsonschema>=2.6->nbformat->notebook~=5.2.0->google-colab) (5.2.0)
+Requirement already satisfied: attrs>=17.4.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jsonschema>=2.6->nbformat->notebook~=5.2.0->google-colab) (21.4.0)
+Requirement already satisfied: pyrsistent!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from jsonschema>=2.6->nbformat->notebook~=5.2.0->google-colab) (0.18.0)
+Requirement already satisfied: zipp>=3.1.0 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from importlib-resources>=1.4.0->jsonschema>=2.6->nbformat->notebook~=5.2.0->google-colab) (3.8.0)
+Requirement already satisfied: soupsieve>1.2 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from beautifulsoup4->nbconvert->notebook~=5.2.0->google-colab) (2.3.1)
+Requirement already satisfied: packaging in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from bleach->nbconvert->notebook~=5.2.0->google-colab) (21.3)
+Requirement already satisfied: webencodings in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from bleach->nbconvert->notebook~=5.2.0->google-colab) (0.5.1)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /projects/07cb54a4-9729-4508-ad4f-95fc7891551c/miniconda3/envs/cv_env/lib/python3.8/site-packages (from packaging->bleach->nbconvert->notebook~=5.2.0->google-colab) (3.0.4)
+Building wheels for collected packages: pandas, portpicker, simplegeneric, tornado
+  Building wheel for pandas (setup.py) ... [?25l- \ | / - \ |clear
+^C
+[?25h canceled
+[31mERROR: Operation cancelled by user[0m
+Note: you may need to restart the kernel to use updated packages.
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m10[0;38;5;28m]: [0m                                                                                                   [108C [9C[?7h[0m[?12l[?25h[9D[J[0m[?7h[?2004l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m10[0;38;5;28m]: [0m                                                                                                   [108C [9C[?7h[0m[?12l[?25h[9D[J[0m[?7h[?2004l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m10[0;38;5;28m]: [0m                                                                                                   [108C [9C[?7h[0m[?12l[?25h[?25l[?7l[0mclear [?7h[0m[?12l[?25h[?25l[?7l[14D[0m[J[0;38;5;28mIn [[0;38;5;46;1m10[0;38;5;28m]: [0mclear                                                                                              [108C [0m
+[J[?7h[0m[?12l[?25h[?2004l[H[2J
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m11[0;38;5;28m]: [0m                                                                                                   [108C [9C[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mn [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0md [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [2D[?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m_ [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mn [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mv [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[30D[0m[J[0;38;5;28mIn [[0;38;5;46;1m12[0;38;5;28m]: [0mconda activate cv_env                                                                              [108C [0m
+[J[?7h[0m[?12l[?25h[?2004lCollecting package metadata (current_repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ done
+Solving environment: / failed with initial frozen solve. Retrying with flexible solve.
+Collecting package metadata (repodata.json): \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / done
+Solving environment: \ failed with initial frozen solve. Retrying with flexible solve.
+
+PackagesNotFoundError: The following packages are not available from current channels:
+
+  - activate
+  - cv_env
+
+Current channels:
+
+  - https://conda.anaconda.org/anaconda/linux-64
+  - https://conda.anaconda.org/anaconda/noarch
+  - https://repo.anaconda.com/pkgs/main/linux-64
+  - https://repo.anaconda.com/pkgs/main/noarch
+  - https://repo.anaconda.com/pkgs/r/linux-64
+  - https://repo.anaconda.com/pkgs/r/noarch
+
+To search for alternate channels that may provide the conda package you're
+looking for, navigate to
+
+    https://anaconda.org
+
+and use the search bar at the top of the page.
+
+
+
+Note: you may need to restart the kernel to use updated packages.
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m13[0;38;5;28m]: [0m                                                                                                   [108C [9C[?7h[0m[?12l[?25h[?25l[?7l[9D[0;38;5;28mIn [[0;38;5;46;1m13[0;38;5;28m]: [0m [0m[K[0m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0m                                                                                                            [108C [24A[9C[?7h[0m[?12l[?25h
