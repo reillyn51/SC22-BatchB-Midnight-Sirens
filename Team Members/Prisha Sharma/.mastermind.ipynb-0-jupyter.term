@@ -1,0 +1,426 @@
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+    reply = self.client.get_shell_msg(timeout=1)
+  File "/usr/lib/python3/dist-packages/jupyter_client/client.py", line 78, in get_shell_msg
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+    reply = self.client.get_shell_msg(timeout=1)Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+    reply = self.client.get_shell_msg(timeout=1)
+  File "/usr/lib/python3/dist-packages/jupyter_client/client.py", line 78, in get_shell_msg
+    return self.shell_channel.get_msg(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/jupyter_client/blocking/channels.py", line 57, in get_msg
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+    reply = self.client.get_shell_msg(timeout=1)
+  File "/usr/lib/python3/dist-packages/jupyter_client/client.py", line 78, in get_shell_msg
+    return self.shell_channel.get_msg(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/jupyter_client/blocking/channels.py", line 57, in get_msg
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+    reply = self.client.get_shell_msg(timeout=1)
+  File "/usr/lib/python3/dist-packages/jupyter_client/client.py", line 78, in get_shell_msg
+    return self.shell_channel.get_msg(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/jupyter_client/blocking/channels.py", line 57, in get_msg
+    raise Empty
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+Traceback (most recent call last):Traceback (most recent call last):Traceback (most recent call last):Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+    reply = self.client.get_shell_msg(timeout=1)
+  File "/usr/lib/python3/dist-packages/jupyter_client/client.py", line 78, in get_shell_msg
+    return self.shell_channel.get_msg(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/jupyter_client/blocking/channels.py", line 57, in get_msg
+    raise Empty
+_queue.Empty
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/bin/jupyter-console", line 11, in <module>
+    load_entry_point('jupyter-console==6.0.0', 'console_scripts', 'jupyter-console')()
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+Traceback (most recent call last):Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_infoTraceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+    reply = self.client.get_shell_msg(timeout=1)
+  File "/usr/lib/python3/dist-packages/jupyter_client/client.py", line 78, in get_shell_msg
+    return self.shell_channel.get_msg(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/jupyter_client/blocking/channels.py", line 57, in get_msg
+    raise Empty
+_queue.Empty
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/bin/jupyter-console", line 11, in <module>
+    load_entry_point('jupyter-console==6.0.0', 'console_scripts', 'jupyter-console')()
+  File "/usr/local/lib/python3.8/dist-packages/jupyter_core/application.py", line 264, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/usr/lib/python3/dist-packages/traitlets/config/application.py", line 663, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-117>", line 2, in initialize
+  File "/usr/lib/python3/dist-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/jupyter_console/app.py", line 142, in initialize
+    self.init_shell()
+  File "/usr/lib/python3/dist-packages/jupyter_console/app.py", line 112, in init_shell
+    self.shell = ZMQTerminalInteractiveShell.instance(parent=self,
+  File "/usr/lib/python3/dist-packages/traitlets/config/configurable.py", line 412, in instance
+    inst = cls(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 287, in __init__
+    self.init_kernel_info()
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 344, in init_kernel_info
+    raise RuntimeError("Kernel didn't respond to kernel_info_request")
+RuntimeError: Kernel didn't respond to kernel_info_request
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+    reply = self.client.get_shell_msg(timeout=1)
+  File "/usr/lib/python3/dist-packages/jupyter_client/client.py", line 78, in get_shell_msg
+    return self.shell_channel.get_msg(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/jupyter_client/blocking/channels.py", line 57, in get_msg
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
+Traceback (most recent call last):Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/jupyter_console/ptshell.py", line 341, in init_kernel_info
