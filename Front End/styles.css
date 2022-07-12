@@ -1,0 +1,16 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: purple;
+}
+p {
+  color: red;
+}
+
+input[type=text]:focus {
+      transition: width 0.4s ease-in-out;
+      background-color: #3CBC8D;
+      color: white;
+      box-sizing: border-box;
+}

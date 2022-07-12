@@ -33,4 +33,4 @@
 {"cell_type":"markdown","id":"e9ad8e","input":"We have to transfer the model to the GPU device. ","metadata":{"id":"wqegJQ24Dkvg"},"pos":19,"type":"cell"}
 {"cell_type":"markdown","id":"f2fe89","input":"# Classifying handwritten digits (0-9) with neural networks \n\n","metadata":{"id":"LGtV5-Jc6zJz"},"pos":0,"type":"cell"}
 {"id":0,"time":1657044491261,"type":"user"}
-{"last_load":1657128865339,"type":"file"}
+{"last_load":1657551498554,"type":"file"}

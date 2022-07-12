@@ -1,0 +1,52 @@
+<head>
+  <link rel="stylesheet" href="styles.css">
+<head/>
+<title>
+  My First Webpage
+</title>
+<body>
+  <h1>My First Webpage</h1>
+    <p1>
+      This is an example paragraph<br><br>
+        <b>Here is bold text</b><br><br>
+        <strong>Here is strong text! (Basically the same as bold)</strong><br><br>
+    </p1>
+    <p2>
+      <small>Here is small text</small><br><br>
+      <i1>Here is italic text</i1><br><br>
+      <i2><b2><small2>Here is italic, small, bold text</small2></b2></i2><br><br>
+    </p2>
+</body>
+
+<!-- iframes embed other html in the page -->
+<!-- <iframe name="hiddenframe" src="index.html" class="hide"></iframe> -->
+
+<form name="form1">
+  <label for="firstname">First name:</label>
+  <input type='text' name='firstname'><br><br>
+  <label for="lastname">Last name:</label>
+  <input type='text' name='lastname'><br><br>
+  
+  <label for="paragraph">Enter what you learned in class so far:</label>
+  <input type='text' name='paragraph'>
+<!--   <p><input type="submit" id="submit" name="Submit"></p> -->
+<!--   <label for="submit">Submit</label> -->
+<!--   <p><input type="submit" id="submit" name="Submit"></p> -->
+</form>
+
+
+<!-- https://www.informit.com/articles/article.aspx?p=30105&seqNum=4 -->
+<script LANGUAGE="JavaScript" type="text/javascript">
+function display() {
+  DispWin = window.open('','NewWin', 'toolbar=no,status=no,width=300,height=200')
+  message = "<ul><li><b>First names: </b>" + document.form1.firstname.value;
+  message += "<li><b>Last name: </b>" + document.form1.lastname.value;
+  message += "<li><b>What they have learned so far in class: </b>" +   document.form1.paragraph.value + "</ul>";
+  DispWin.document.write(message);
+  return Dispwin
+}
+</script>
+
+<!-- <iframe name="hiddenframe" src="DispWin" class="hide"></iframe> -->
+
+<p><input TYPE="BUTTON" VALUE="Submit" onClick="display();"></p>
